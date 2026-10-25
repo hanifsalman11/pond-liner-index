@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "pond_name": "10x15x3 Ft Backyard Koi Pond & Waterfall Setup",
+    "slug": "10x15x3-ft-backyard-koi-pond-waterfall-setup-liner-gph-calculator",
+    "title": "10x15x3 Ft Backyard Koi Pond & Waterfall Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×23'), water volume (2,690 gallons), waterfall pump flow (3,400 GPH), and 36W UV bio-filter for 10x15x3 Ft Backyard Koi Pond & Waterfall Setup.",
+    "liner_dim": "18'×23'",
+    "gallons": 2690,
+    "pump_gph": 3400,
+    "date": "2026-10-25"
+  },
+  {
+    "pond_name": "8x12x2.5 Ft Garden Water Feature & Goldfish Pond",
+    "slug": "8x12x25-ft-garden-water-feature-goldfish-pond-liner-gph-calculator",
+    "title": "8x12x2.5 Ft Garden Water Feature & Goldfish Pond EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (15'×19'), water volume (1,440 gallons), waterfall pump flow (1,900 GPH), and 18W UV bio-filter for 8x12x2.5 Ft Garden Water Feature & Goldfish Pond.",
+    "liner_dim": "15'×19'",
+    "gallons": 1440,
+    "pump_gph": 1900,
+    "date": "2026-10-25"
+  },
+  {
+    "pond_name": "12x20x3.5 Ft Dedicated Koi Pond & Stream Setup",
+    "slug": "12x20x35-ft-dedicated-koi-pond-stream-setup-liner-gph-calculator",
+    "title": "12x20x3.5 Ft Dedicated Koi Pond & Stream Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (21'×29'), water volume (5,030 gallons), waterfall pump flow (6,300 GPH), and 75W UV bio-filter for 12x20x3.5 Ft Dedicated Koi Pond & Stream Setup.",
+    "liner_dim": "21'×29'",
+    "gallons": 5030,
+    "pump_gph": 6300,
+    "date": "2026-10-25"
+  }
+]
