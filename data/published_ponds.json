@@ -58,5 +58,35 @@
     "gallons": 1800,
     "pump_gph": 2500,
     "date": "2026-10-26"
+  },
+  {
+    "pond_name": "4x6x2 Ft Small Preformed-Style Liner Patio Pond",
+    "slug": "4x6x2-ft-small-preformed-style-liner-patio-pond-liner-gph-calculator",
+    "title": "4x6x2 Ft Small Preformed-Style Liner Patio Pond EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (10'×12'), water volume (290 gallons), waterfall pump flow (1,200 GPH), and 18W UV bio-filter for 4x6x2 Ft Small Preformed-Style Liner Patio Pond.",
+    "liner_dim": "10'×12'",
+    "gallons": 290,
+    "pump_gph": 1200,
+    "date": "2026-10-26"
+  },
+  {
+    "pond_name": "20x30x4.5 Ft Trophy Koi & Natural Swim Pond",
+    "slug": "20x30x45-ft-trophy-koi-natural-swim-pond-liner-gph-calculator",
+    "title": "20x30x4.5 Ft Trophy Koi & Natural Swim Pond EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (31'×41'), water volume (16,160 gallons), waterfall pump flow (20,200 GPH), and 75W UV bio-filter for 20x30x4.5 Ft Trophy Koi & Natural Swim Pond.",
+    "liner_dim": "31'×41'",
+    "gallons": 16160,
+    "pump_gph": 20200,
+    "date": "2026-10-26"
+  },
+  {
+    "pond_name": "Aquascape AquaForce 2700 GPH Solids-Handling Pump",
+    "slug": "aquascape-aquaforce-2700-gph-solids-handling-pump-liner-gph-calculator",
+    "title": "Aquascape AquaForce 2700 GPH Solids-Handling Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (15'×19'), water volume (1,440 gallons), waterfall pump flow (2,200 GPH), and 18W UV bio-filter for Aquascape AquaForce 2700 GPH Solids-Handling Pump.",
+    "liner_dim": "15'×19'",
+    "gallons": 1440,
+    "pump_gph": 2200,
+    "date": "2026-10-26"
   }
 ]
