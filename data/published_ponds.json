@@ -88,5 +88,35 @@
     "gallons": 1440,
     "pump_gph": 2200,
     "date": "2026-10-26"
+  },
+  {
+    "pond_name": "Aquascape AquaForce 5200 GPH Waterfall & Skimmer Pump",
+    "slug": "aquascape-aquaforce-5200-gph-waterfall-skimmer-pump-liner-gph-calculator",
+    "title": "Aquascape AquaForce 5200 GPH Waterfall & Skimmer Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (19'×24'), water volume (3,160 gallons), waterfall pump flow (4,000 GPH), and 55W UV bio-filter for Aquascape AquaForce 5200 GPH Waterfall & Skimmer Pump.",
+    "liner_dim": "19'×24'",
+    "gallons": 3160,
+    "pump_gph": 4000,
+    "date": "2026-10-26"
+  },
+  {
+    "pond_name": "Aquascape SLD 4000-7000 Variable Flow Pond Pump",
+    "slug": "aquascape-sld-4000-7000-variable-flow-pond-pump-liner-gph-calculator",
+    "title": "Aquascape SLD 4000-7000 Variable Flow Pond Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (21'×27'), water volume (4,520 gallons), waterfall pump flow (5,600 GPH), and 55W UV bio-filter for Aquascape SLD 4000-7000 Variable Flow Pond Pump.",
+    "liner_dim": "21'×27'",
+    "gallons": 4520,
+    "pump_gph": 5600,
+    "date": "2026-10-26"
+  },
+  {
+    "pond_name": "OASE AquaMax Eco Premium 3000 GPH Koi Pond Pump",
+    "slug": "oase-aquamax-eco-premium-3000-gph-koi-pond-pump-liner-gph-calculator",
+    "title": "OASE AquaMax Eco Premium 3000 GPH Koi Pond Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (17'×22'), water volume (2,260 gallons), waterfall pump flow (2,800 GPH), and 36W UV bio-filter for OASE AquaMax Eco Premium 3000 GPH Koi Pond Pump.",
+    "liner_dim": "17'×22'",
+    "gallons": 2260,
+    "pump_gph": 2800,
+    "date": "2026-10-26"
   }
 ]
