@@ -28,5 +28,35 @@
     "gallons": 5030,
     "pump_gph": 6300,
     "date": "2026-10-25"
+  },
+  {
+    "pond_name": "6x8x2 Ft Compact Patio & Courtyard Water Garden",
+    "slug": "6x8x2-ft-compact-patio-courtyard-water-garden-liner-gph-calculator",
+    "title": "6x8x2 Ft Compact Patio & Courtyard Water Garden EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (12'×14'), water volume (570 gallons), waterfall pump flow (1,200 GPH), and 18W UV bio-filter for 6x8x2 Ft Compact Patio & Courtyard Water Garden.",
+    "liner_dim": "12'×14'",
+    "gallons": 570,
+    "pump_gph": 1200,
+    "date": "2026-10-26"
+  },
+  {
+    "pond_name": "15x25x4 Ft Large Estate Koi Pond & Bog Filter",
+    "slug": "15x25x4-ft-large-estate-koi-pond-bog-filter-liner-gph-calculator",
+    "title": "15x25x4 Ft Large Estate Koi Pond & Bog Filter EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (25'×35'), water volume (8,980 gallons), waterfall pump flow (11,200 GPH), and 75W UV bio-filter for 15x25x4 Ft Large Estate Koi Pond & Bog Filter.",
+    "liner_dim": "25'×35'",
+    "gallons": 8980,
+    "pump_gph": 11200,
+    "date": "2026-10-26"
+  },
+  {
+    "pond_name": "10x10x3 Ft Square Zen Deck Koi Pond Setup",
+    "slug": "10x10x3-ft-square-zen-deck-koi-pond-setup-liner-gph-calculator",
+    "title": "10x10x3 Ft Square Zen Deck Koi Pond Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×18'), water volume (1,800 gallons), waterfall pump flow (2,500 GPH), and 36W UV bio-filter for 10x10x3 Ft Square Zen Deck Koi Pond Setup.",
+    "liner_dim": "18'×18'",
+    "gallons": 1800,
+    "pump_gph": 2500,
+    "date": "2026-10-26"
   }
 ]
