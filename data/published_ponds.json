@@ -118,5 +118,35 @@
     "gallons": 2260,
     "pump_gph": 2800,
     "date": "2026-10-26"
+  },
+  {
+    "pond_name": "OASE AquaMax Eco Premium 4000 GPH Waterfall Pump",
+    "slug": "oase-aquamax-eco-premium-4000-gph-waterfall-pump-liner-gph-calculator",
+    "title": "OASE AquaMax Eco Premium 4000 GPH Waterfall Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×24'), water volume (2,870 gallons), waterfall pump flow (3,600 GPH), and 36W UV bio-filter for OASE AquaMax Eco Premium 4000 GPH Waterfall Pump.",
+    "liner_dim": "18'×24'",
+    "gallons": 2870,
+    "pump_gph": 3600,
+    "date": "2026-10-27"
+  },
+  {
+    "pond_name": "OASE BioSmart 5000 & 10000 Flow-Through Filter System",
+    "slug": "oase-biosmart-5000-10000-flow-through-filter-system-liner-gph-calculator",
+    "title": "OASE BioSmart 5000 & 10000 Flow-Through Filter System EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×23'), water volume (2,690 gallons), waterfall pump flow (3,400 GPH), and 36W UV bio-filter for OASE BioSmart 5000 & 10000 Flow-Through Filter System.",
+    "liner_dim": "18'×23'",
+    "gallons": 2690,
+    "pump_gph": 3400,
+    "date": "2026-10-27"
+  },
+  {
+    "pond_name": "OASE FiltoClear 4000 & 8000 Pressurized UV Bio-Filter",
+    "slug": "oase-filtoclear-4000-8000-pressurized-uv-bio-filter-liner-gph-calculator",
+    "title": "OASE FiltoClear 4000 & 8000 Pressurized UV Bio-Filter EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for OASE FiltoClear 4000 & 8000 Pressurized UV Bio-Filter.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-27"
   }
 ]
