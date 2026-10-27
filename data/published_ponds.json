@@ -178,5 +178,35 @@
     "gallons": 1620,
     "pump_gph": 2200,
     "date": "2026-10-27"
+  },
+  {
+    "pond_name": "Atlantic Water Gardens TT3000 & TT4000 TidalWave Pump",
+    "slug": "atlantic-water-gardens-tt3000-tt4000-tidalwave-pump-liner-gph-calculator",
+    "title": "Atlantic Water Gardens TT3000 & TT4000 TidalWave Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×23'), water volume (2,690 gallons), waterfall pump flow (3,400 GPH), and 36W UV bio-filter for Atlantic Water Gardens TT3000 & TT4000 TidalWave Pump.",
+    "liner_dim": "18'×23'",
+    "gallons": 2690,
+    "pump_gph": 3400,
+    "date": "2026-10-27"
+  },
+  {
+    "pond_name": "Atlantic Water Gardens FastFalls 24-Inch Spillway Setup",
+    "slug": "atlantic-water-gardens-fastfalls-24-inch-spillway-setup-liner-gph-calculator",
+    "title": "Atlantic Water Gardens FastFalls 24-Inch Spillway Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×24'), water volume (2,870 gallons), waterfall pump flow (3,800 GPH), and 36W UV bio-filter for Atlantic Water Gardens FastFalls 24-Inch Spillway Setup.",
+    "liner_dim": "18'×24'",
+    "gallons": 2870,
+    "pump_gph": 3800,
+    "date": "2026-10-27"
+  },
+  {
+    "pond_name": "Savio Skimmerfilter & Livingponds 16-Inch Waterfall",
+    "slug": "savio-skimmerfilter-livingponds-16-inch-waterfall-liner-gph-calculator",
+    "title": "Savio Skimmerfilter & Livingponds 16-Inch Waterfall EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Savio Skimmerfilter & Livingponds 16-Inch Waterfall.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-27"
   }
 ]
