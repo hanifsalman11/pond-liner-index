@@ -208,5 +208,35 @@
     "gallons": 2510,
     "pump_gph": 3100,
     "date": "2026-10-27"
+  },
+  {
+    "pond_name": "TetraPond Debris-Handling 1900 & 3000 GPH Pump Setup",
+    "slug": "tetrapond-debris-handling-1900-3000-gph-pump-setup-liner-gph-calculator",
+    "title": "TetraPond Debris-Handling 1900 & 3000 GPH Pump Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (15'×18'), water volume (1,320 gallons), waterfall pump flow (1,900 GPH), and 18W UV bio-filter for TetraPond Debris-Handling 1900 & 3000 GPH Pump Setup.",
+    "liner_dim": "15'×18'",
+    "gallons": 1320,
+    "pump_gph": 1900,
+    "date": "2026-10-27"
+  },
+  {
+    "pond_name": "Alpine Corporation 3100 GPH Cyclone Waterfall Pump",
+    "slug": "alpine-corporation-3100-gph-cyclone-waterfall-pump-liner-gph-calculator",
+    "title": "Alpine Corporation 3100 GPH Cyclone Waterfall Pump EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (16'×20'), water volume (1,750 gallons), waterfall pump flow (2,800 GPH), and 36W UV bio-filter for Alpine Corporation 3100 GPH Cyclone Waterfall Pump.",
+    "liner_dim": "16'×20'",
+    "gallons": 1750,
+    "pump_gph": 2800,
+    "date": "2026-10-27"
+  },
+  {
+    "pond_name": "PondMax PV2700 & PF3600 Pressurized UV Filter Setup",
+    "slug": "pondmax-pv2700-pf3600-pressurized-uv-filter-setup-liner-gph-calculator",
+    "title": "PondMax PV2700 & PF3600 Pressurized UV Filter Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (16'×20'), water volume (1,720 gallons), waterfall pump flow (2,200 GPH), and 36W UV bio-filter for PondMax PV2700 & PF3600 Pressurized UV Filter Setup.",
+    "liner_dim": "16'×20'",
+    "gallons": 1720,
+    "pump_gph": 2200,
+    "date": "2026-10-27"
   }
 ]
