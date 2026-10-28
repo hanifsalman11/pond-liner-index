@@ -238,5 +238,35 @@
     "gallons": 1720,
     "pump_gph": 2200,
     "date": "2026-10-27"
+  },
+  {
+    "pond_name": "14-Foot Pondless Waterfall Stream & Basin Vault Setup",
+    "slug": "14-foot-pondless-waterfall-stream-basin-vault-setup-liner-gph-calculator",
+    "title": "14-Foot Pondless Waterfall Stream & Basin Vault Setup EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (10'×20'), water volume (670 gallons), waterfall pump flow (3,400 GPH), and 18W UV bio-filter for 14-Foot Pondless Waterfall Stream & Basin Vault Setup.",
+    "liner_dim": "10'×20'",
+    "gallons": 670,
+    "pump_gph": 3400,
+    "date": "2026-10-28"
+  },
+  {
+    "pond_name": "Upflow Wetland Bog Filter & Koi Pond Sizing (12x16 Ft)",
+    "slug": "upflow-wetland-bog-filter-koi-pond-sizing-12x16-ft-liner-gph-calculator",
+    "title": "Upflow Wetland Bog Filter & Koi Pond Sizing (12x16 Ft) EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (21'×25'), water volume (4,020 gallons), waterfall pump flow (5,000 GPH), and 55W UV bio-filter for Upflow Wetland Bog Filter & Koi Pond Sizing (12x16 Ft).",
+    "liner_dim": "21'×25'",
+    "gallons": 4020,
+    "pump_gph": 5000,
+    "date": "2026-10-28"
+  },
+  {
+    "pond_name": "3,000 Gallon Predator-Safe Deep Koi Pond (12x15x3.5 Ft)",
+    "slug": "3000-gallon-predator-safe-deep-koi-pond-12x15x35-ft-liner-gph-calculator",
+    "title": "3,000 Gallon Predator-Safe Deep Koi Pond (12x15x3.5 Ft) EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (21'×24'), water volume (3,770 gallons), waterfall pump flow (4,700 GPH), and 55W UV bio-filter for 3,000 Gallon Predator-Safe Deep Koi Pond (12x15x3.5 Ft).",
+    "liner_dim": "21'×24'",
+    "gallons": 3770,
+    "pump_gph": 4700,
+    "date": "2026-10-28"
   }
 ]
