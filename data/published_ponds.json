@@ -268,5 +268,35 @@
     "gallons": 3770,
     "pump_gph": 4700,
     "date": "2026-10-28"
+  },
+  {
+    "pond_name": "1,500 Gallon Backyard Water Garden (9x13x2.5 Ft)",
+    "slug": "1500-gallon-backyard-water-garden-9x13x25-ft-liner-gph-calculator",
+    "title": "1,500 Gallon Backyard Water Garden (9x13x2.5 Ft) EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (16'×20'), water volume (1,750 gallons), waterfall pump flow (2,200 GPH), and 36W UV bio-filter for 1,500 Gallon Backyard Water Garden (9x13x2.5 Ft).",
+    "liner_dim": "16'×20'",
+    "gallons": 1750,
+    "pump_gph": 2200,
+    "date": "2026-10-28"
+  },
+  {
+    "pond_name": "5,000 Gallon Dedicated Koi Sanctuary (16x22x4.0 Ft)",
+    "slug": "5000-gallon-dedicated-koi-sanctuary-16x22x40-ft-liner-gph-calculator",
+    "title": "5,000 Gallon Dedicated Koi Sanctuary (16x22x4.0 Ft) EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (26'×32'), water volume (8,430 gallons), waterfall pump flow (10,500 GPH), and 75W UV bio-filter for 5,000 Gallon Dedicated Koi Sanctuary (16x22x4.0 Ft).",
+    "liner_dim": "26'×32'",
+    "gallons": 8430,
+    "pump_gph": 10500,
+    "date": "2026-10-28"
+  },
+  {
+    "pond_name": "Firestone PondGard 45-Mil EPDM Liner & Underlayment",
+    "slug": "firestone-pondgard-45-mil-epdm-liner-underlayment-liner-gph-calculator",
+    "title": "Firestone PondGard 45-Mil EPDM Liner & Underlayment EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×23'), water volume (2,690 gallons), waterfall pump flow (3,400 GPH), and 36W UV bio-filter for Firestone PondGard 45-Mil EPDM Liner & Underlayment.",
+    "liner_dim": "18'×23'",
+    "gallons": 2690,
+    "pump_gph": 3400,
+    "date": "2026-10-28"
   }
 ]
