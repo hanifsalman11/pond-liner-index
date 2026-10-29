@@ -328,5 +328,35 @@
     "gallons": 2510,
     "pump_gph": 3100,
     "date": "2026-10-28"
+  },
+  {
+    "pond_name": "How Much Pond Liner",
+    "slug": "how-much-pond-liner-liner-gph-calculator",
+    "title": "How Much Pond Liner EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for How Much Pond Liner.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-29"
+  },
+  {
+    "pond_name": "Calculate Pond Liner Needed",
+    "slug": "calculate-pond-liner-needed-liner-gph-calculator",
+    "title": "Calculate Pond Liner Needed EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Calculate Pond Liner Needed.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-29"
+  },
+  {
+    "pond_name": "Waterfall",
+    "slug": "waterfall-liner-gph-calculator",
+    "title": "Waterfall EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Waterfall.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-29"
   }
 ]
