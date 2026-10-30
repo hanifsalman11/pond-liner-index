@@ -448,5 +448,35 @@
     "gallons": 2510,
     "pump_gph": 3100,
     "date": "2026-10-30"
+  },
+  {
+    "pond_name": "Koi Pond Filter",
+    "slug": "koi-pond-filter-liner-gph-calculator",
+    "title": "Koi Pond Filter EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Koi Pond Filter.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-30"
+  },
+  {
+    "pond_name": "Do You Need A Filter  A Koi Pond",
+    "slug": "do-you-need-a-filter-a-koi-pond-liner-gph-calculator",
+    "title": "Do You Need A Filter  A Koi Pond EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Do You Need A Filter  A Koi Pond.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-30"
+  },
+  {
+    "pond_name": "What  Pond Filter Do I Need",
+    "slug": "what-pond-filter-do-i-need-liner-gph-calculator",
+    "title": "What  Pond Filter Do I Need EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for What  Pond Filter Do I Need.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-30"
   }
 ]
