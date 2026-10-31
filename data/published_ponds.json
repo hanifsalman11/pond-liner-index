@@ -508,5 +508,35 @@
     "gallons": 2510,
     "pump_gph": 3100,
     "date": "2026-10-30"
+  },
+  {
+    "pond_name": "Aquascape Pond Pump To Buy Canada",
+    "slug": "aquascape-pond-pump-to-buy-canada-liner-gph-calculator",
+    "title": "Aquascape Pond Pump To Buy Canada EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Aquascape Pond Pump To Buy Canada.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-31"
+  },
+  {
+    "pond_name": "Aquascape Pond Pump Controller",
+    "slug": "aquascape-pond-pump-controller-liner-gph-calculator",
+    "title": "Aquascape Pond Pump Controller EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Aquascape Pond Pump Controller.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-31"
+  },
+  {
+    "pond_name": "Aquascape Pond Pump To Buy",
+    "slug": "aquascape-pond-pump-to-buy-liner-gph-calculator",
+    "title": "Aquascape Pond Pump To Buy EPDM Liner Size, Gallons & Pump GPH Calculator (2026)",
+    "description": "Calculate exact 45-mil EPDM pond liner size (18'×22'), water volume (2,510 gallons), waterfall pump flow (3,100 GPH), and 36W UV bio-filter for Aquascape Pond Pump To Buy.",
+    "liner_dim": "18'×22'",
+    "gallons": 2510,
+    "pump_gph": 3100,
+    "date": "2026-10-31"
   }
 ]
